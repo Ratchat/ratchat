@@ -1,0 +1,16 @@
+#logo {
+  display:block;
+  float:left;
+}
+
+#navigation {
+  margin:20px;
+}
+
+#navigation li {
+  display:inline;
+  list-style-type:none;
+  margin:10px;
+   clearfloat:both;
+
+}
